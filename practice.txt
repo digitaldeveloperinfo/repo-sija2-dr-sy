@@ -3,3 +3,4 @@ version controll system study
 membuat baris kedua
 
 buat baris 5 dari branch 1
+buat baris 6 dari branch 2
